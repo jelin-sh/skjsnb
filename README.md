@@ -38,5 +38,5 @@ Robert C. Martin 大师(Bob 大叔)曾在他的《代码整洁之道》书里提
 
 ### 我在Github上的开源统计
 
-[![Jelin's Github stats](https://github-readme-stats.vercel.app/api?username=skjsnb&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jelin's Github stats](https://github-readme-stats.vercel.app/api?username=skjsnb&show_icons=true)](https://github.com/skjsnb)
 
