@@ -7,12 +7,14 @@
 - 🌴 在工作中我涉猎的领域较多，例如FBGA信号处理，MCU软件开发，Linux驱动及BSP，还有Web后端开发，甚至还有Windows桌面应用程序开发。
 - 🔫 我的目标是成为一名经验丰富的嵌入式软件工程专家，这也是我确立职业规划后一直在努力的事情。
 
+---
+
 欢迎大家光临我的博客 [Jelin's Blog](https://blog.skjsnb.com/)，以下是我最新的文章：
 
 - [gRPC在Windows下开发环境搭建(MinGW)](https://blog.skjsnb.com/post2/)
 - [C语言预处理脚本：宏的狂欢 ](https://blog.skjsnb.com/post1/)
 
-
+---
 
 ### 我的编程柔道场🤜
 
@@ -33,7 +35,7 @@ Robert C. Martin 大师(Bob 大叔)曾在他的《代码整洁之道》书里提
 [![Kata](https://github-readme-stats.vercel.app/api/pin/?username=skjsnb&repo=kata)](https://github.com/skjsnb/kata)
 
 
-
+---
 
 
 ### 我在Github上的开源统计
