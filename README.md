@@ -7,14 +7,14 @@
 - 🌴 在工作中我涉猎的领域较多，例如FBGA信号处理，MCU软件开发，Linux驱动及BSP，还有Web后端开发，甚至还有Windows桌面应用程序开发。
 - 🔫 我的目标是成为一名经验丰富的嵌入式软件工程专家，这也是我确立职业规划后一直在努力的事情。
 
-欢迎大家光临我的**独立博客**：[Jelin's Blog (skjsnb.com)](https://blog.skjsnb.com/)
+欢迎大家光临我的**独立博客** [Jelin's Blog (skjsnb.com)](https://blog.skjsnb.com/)，以下是我最新的文章：
 
 - [gRPC在Windows下开发环境搭建(MinGW)](https://blog.skjsnb.com/post2/)
 - [C语言预处理脚本：宏的狂欢 ](https://blog.skjsnb.com/post1/)
 
 
 
-### 我的KATA
+### 我的编程柔道场🤜
 
 ![kata](https://www.codewars.com/users/skjsnb/badges/micro)
 
