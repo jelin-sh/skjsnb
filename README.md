@@ -17,7 +17,7 @@
 
 ### 我的编程柔道场🤜
 
-![kata](https://www.codewars.com/users/skjsnb/badges/micro)
+[![kata](https://www.codewars.com/users/skjsnb/badges/micro)](https://www.codewars.com/users/JelinPro/badges/small?theme=light)
 
 Robert C. Martin 大师(Bob 大叔)曾在他的《代码整洁之道》书里提到：
 
