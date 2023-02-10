@@ -31,7 +31,6 @@ Robert C. Martin 大师(Bob 大叔)曾在他的《代码整洁之道》书里提
 >
 > 与之类似，编程卡塔也是一整套敲击键盘和鼠标的动作，用来模拟编程问题的解决过程。编程卡塔的最终目标，也是逐步练习到达纯熟。反复练习会训练大脑和手指如何动作和反应。
 
-这是我的Kata仓库，我会尽可能地每天进行练习，当然也有例外。
 
 [![Kata](https://github-readme-stats.vercel.app/api/pin/?username=skjsnb&repo=kata)](https://github.com/skjsnb/kata)
 
