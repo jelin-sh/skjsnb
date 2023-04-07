@@ -13,6 +13,15 @@
 ### My Latest Blog Posts：
 
 <!-- BLOG-POST-LIST:START -->
+- 💡 [【Go学习笔记】01-HelloWorld](https://blog.skjsnb.com/230322/) 
+
+- 🪄 [关于std::set的使用](https://blog.skjsnb.com/post_23020501/) 
+
+- 🤩 [关于std::accumulate的使用](https://blog.skjsnb.com/post_23011901/) 
+
+- 🌮 [gRPC在Windows下开发环境搭建（MinGW）](https://blog.skjsnb.com/post2/) 
+
+- 🐲 [C语言预处理脚本：宏的狂欢](https://blog.skjsnb.com/post1/) 
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set：
