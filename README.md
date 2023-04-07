@@ -40,8 +40,3 @@ In his book “Clean Code”, Master Robert C. Martin (also known as Uncle Bob) 
 </p>
 
 
-
----
-
-[![Jelin's Github stats](https://github-readme-stats.vercel.app/api?username=skjsnb&show_icons=true)](https://github.com/skjsnb)
-
