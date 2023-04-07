@@ -1,42 +1,48 @@
-### 欢迎来到我的Github主页 👋
+<h1 align="center">Hi 👋, I'm Jelin</h1>
+<h3 align="center">A passionate embedded developer from China</h3>
 
-大家好，我是Jelin(skjsnb@163.com)，这里将记录我的开源生活以及我的日常😃
-
-- 🍀 我是一名嵌入式软件工程师，家乡是山东淄博
-- 📖 我热爱编程，擅长使用C/C++, C#, Java 以及 Verilog
-- 🌴 在工作中我涉猎的领域较多，例如FBGA数字信号处理、MCU嵌入式软件开发、Linux驱动及BSP、Web后端开发、还有基于WPF的Windows桌面应用程序开发。
+- 🔭 I’m currently working on XinerTec
+- 🌱 I’m currently learning **Go and Linux driver development**
+- 📝 I regularly write articles on [https://blog.skjsnb.com](https://blog.skjsnb.com)
+- 💬 Ask me about anything related to **C/C++, C# and Verilog**
+- 📫 How to reach me:  **szljsnb@gmail.com**
+- 📄 Know about my experiences [https://blog.skjsnb.com/about](https://blog.skjsnb.com/about)
 
 ---
 
-#### 📕Latest Blog Posts
+### My Latest Blog Posts：
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+### My Skill Set：
 
-### 我的编程柔道场🤜
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+---
 
 [![kata](https://www.codewars.com/users/JelinPro/badges/small?theme=light)](https://www.codewars.com/users/JelinPro)
 
-Robert C. Martin 大师(Bob 大叔)曾在他的《代码整洁之道》书里提到：
+In his book “Clean Code”, Master Robert C. Martin (also known as Uncle Bob) mentioned that:
 
-> 任何事情，只要想做的快，都离不开练习。要想尽可能快地重复编码/测试过程，就必须能迅速做出决定。这需要识别各种各样的环境和问题，并懂得应付。
-
-这像极了在武术中与对手博弈的情形，面对对手的进攻，必须进行快速的反应与应付，对此Bob大叔提到KATA一词。
-
-> 在武术里，Kata是一套设计好的、用来模拟搏斗一方的招式。目标则是要逐步把整套招式练习到娴熟。
->
-> 与之类似，编程卡塔也是一整套敲击键盘和鼠标的动作，用来模拟编程问题的解决过程。编程卡塔的最终目标，也是逐步练习到达纯熟。反复练习会训练大脑和手指如何动作和反应。
-
+> Anything that is done quickly requires practice. To repeat the coding/testing process as quickly as possible, quick decision-making is necessary. This requires identifying various environments and problems, and knowing how to handle them.
 
 [![Kata](https://github-readme-stats.vercel.app/api/pin/?username=skjsnb&repo=kata)](https://github.com/skjsnb/kata)
 
-
 ---
 
+### Connect with me：
 
-### 我在Github上的开源统计
+
+<p align="left">
+<a href="https://dev.to/jelinpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jelinpro" height="30" width="40" /></a>
+<a href="https://twitter.com/ProJelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jelinpro" height="30" width="40" /></a>
+</p>
+
+
+
+---
 
 [![Jelin's Github stats](https://github-readme-stats.vercel.app/api?username=skjsnb&show_icons=true)](https://github.com/skjsnb)
 
