@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jelin</h1>
 <h3 align="center">A passionate embedded developer from China</h3>
 
-- 🔭 I’m currently working on XinerTec
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=skjsnb&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
+
+
+- 🔭 I’m currently working on XinerTEC
 - 🌱 I’m currently learning **Go and Linux driver development**
-- 📝 I regularly write articles on [https://blog.skjsnb.com](https://blog.skjsnb.com)
+- 📝 I regularly write articles on [Jelin‘s Blog](https://blog.skjsnb.com)
 - 💬 Ask me about anything related to **C/C++, C# and Verilog**
 - 📫 How to reach me:  **szljsnb@gmail.com**
-- 📄 Know about my experiences [https://blog.skjsnb.com/about](https://blog.skjsnb.com/about)
+- 📄 Know about my experiences:  [About me](https://blog.skjsnb.com/about)
 
 ---
 
 ### My Latest Blog Posts：
 
 <!-- BLOG-POST-LIST:START -->
+
 - 💡 [【Go学习笔记】01-HelloWorld](https://blog.skjsnb.com/230322/) 
 
 - 🪄 [关于std::set的使用](https://blog.skjsnb.com/post_23020501/) 
