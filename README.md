@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jelin</h1>
 <h3 align="center">A passionate embedded developer from China</h3>
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=skjsnb&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
+[<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=skjsnb&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
 
 - 🔭 I’m currently working on XinerTEC
