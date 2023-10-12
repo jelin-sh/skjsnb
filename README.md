@@ -4,7 +4,7 @@
 [<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=skjsnb&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
 
-- 🔭 I’m currently working on XinerTEC
+- 🔭 I’m currently working on KeyueGroup
 - 🌱 I’m currently learning **Go and Linux driver development**
 - 📝 I regularly write articles on [Jelin‘s Blog](https://blog.skjsnb.com)
 - 💬 Ask me about anything related to **C/C++, C# and Verilog**
